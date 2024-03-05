@@ -1,0 +1,26 @@
+body {
+    background-color:rgb(87, 0, 128);
+   color:beige
+ }
+
+h1 {
+    color:blanchedalmond;
+    font-size:xx-large;
+    
+    } 
+
+    .pfooter {
+        color:aqua
+    }
+    #icone {
+        width: 500px;
+    }
+
+    p {
+        color: yellow;
+    }
+
+    .pfooter {
+        color:rgb(169, 238, 169)
+    }
+    
