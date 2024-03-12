@@ -1,4 +1,7 @@
 *{
+    margin: 0;
+    padding: 0;
+}{
     font-family: "Poppins", sans-serif;
 }
 body {
@@ -17,7 +20,9 @@ h1 {
        
     }
     
-
+    ul {
+        background-color: #909090;
+    }
     legend {
         font-size: 28.8px;
        
@@ -40,6 +45,7 @@ h1 {
         font-size: 20.81 x 21;
         margin-left: 3.5px;
         margin-right: 3.5px;
+       
     }
 
     li{ 
@@ -58,5 +64,35 @@ h1 {
     #pfooter {
         background-color: purple;
     }
-    
+    #enviar {
+        background-color: #909090;
+        width: 100%;
+    }
+
+    #SeuNome {
+margin: 15px;
+border: left 15px; ;
+border-top: 15px;
+
+    }
+
+    #Mensagem {
+        margin-top: 15px;
+        border-left: 15px;
+        border-top: 15px;
+    }
+    #Email{
+        margin: 15px;
+        border-left: 15px;
+        border-top: 15px;
+    }
+    .box >label{
+    display: block;
+    }
+.lele > label{
+    display: block;
+}
+.lele >input{
+    display: block;
+}
     
