@@ -11,12 +11,14 @@ body {
 
 h1 {
     color: EAEADE;
-    font-size: 36.5px; 
+    font-size: 40.5px; 
+    margin-left: 300px;
 
     
     } 
     h2 {
-        font-size: 20.8px;
+        font-size: 12px;
+        margin-left: 325px;
        
     }
     
@@ -37,8 +39,12 @@ h1 {
      p {
         color: gray;
         font-size: 12.8px;
-       
-     }
+        
+        }
+        #carregando{
+            width: 90px;
+            margin-left: 80px;
+        }
     
     i {
         color: white;
@@ -50,6 +56,8 @@ h1 {
 
     li{ 
         display: inline;
+        margin-left: 50px;
+        font-size: 12.8px;
     }
 
     #icone {
@@ -70,9 +78,9 @@ h1 {
     }
 
     #SeuNome {
-margin: 15px;
-border: left 15px; ;
-border-top: 15px;
+        margin: 15px;
+        border: left 15px; ;
+        border-top: 15px;
 
     }
 
@@ -81,6 +89,7 @@ border-top: 15px;
         border-left: 15px;
         border-top: 15px;
     }
+
     #Email{
         margin: 15px;
         border-left: 15px;
@@ -95,4 +104,8 @@ border-top: 15px;
 .lele >input{
     display: block;
 }
-    
+    p{
+        margin: 20px;
+        border-left: 20px;
+        border-right: 20px;
+    }
